@@ -8,16 +8,17 @@ header img {
 
 .body_main {
     font-family: 'Montserrat', sans-serif;
+    background-color: aquamarine!important;
 }
 
 .NO {
-    display: none;
+    display: none!important;
 }
 .age{
-    font-family: serif;
-    max-width: 300px;
-    margin: 0 auto;
-    outline: 2px solid gray;
-    border-radius: 5px;
+    font-family: serif!important;
+    max-width: 300px!important;
+    margin: 0 auto!important;
+    outline: 2px solid gray!important;
+    border-radius: 5px!important;
     text-align: left!important;
 }

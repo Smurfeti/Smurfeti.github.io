@@ -14,10 +14,19 @@ header img {
     display: none!important;
 }
 .age{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1;
     font-family: serif!important;
     max-width: 300px!important;
-    margin: 0 auto!important;
-    outline: 2px solid gray!important;
+
+    padding: 10px 0px 0 10px;
+    font-size: large;
+
     border-radius: 5px!important;
+    
     text-align: left!important;
+    background-color: rgb(44 58 183);;
+    color: rgb(254, 254, 255);
 }

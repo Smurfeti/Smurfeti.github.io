@@ -12,10 +12,11 @@ function show(){
     age.classList.add('NO')
 }
 
-const close_btn = document.querySelector('.age button')
+const close_btn = document.querySelector('.qwsa')
 
 close_btn.addEventListener('click', ()=> {
     age.classList.add('NO')
+   
 })
 
-setTimeout(show,4000)
+setTimeout(show,2300)

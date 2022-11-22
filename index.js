@@ -19,4 +19,4 @@ close_btn.addEventListener('click', ()=> {
    
 })
 
-setTimeout(show,2300)
+setTimeout(show,3200)
